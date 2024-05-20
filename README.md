@@ -3,7 +3,6 @@
 This array-based list that will automatically insert values in ascending order.
 This function performs a linear search to find the correct position to insert the value into the 
 array arr while maintaining the sorted order:
-        public:
     void insert(int value) {
         // Find the correct position to insert the value
         int index = 0;
